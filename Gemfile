@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-
+# Simple comment
 gemspec
 
 require File.expand_path('../spec/support/detect_rails_version', __FILE__)
